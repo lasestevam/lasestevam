@@ -11,7 +11,6 @@
 </div>
 
 
-
 <div  align="center" style="margin-bottom:100px">
  
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lasestevam&theme=radical&mode=weekly" />
@@ -19,16 +18,11 @@
  </div>
 
 
- 
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
 #### Principais:
-![HTML](https://img.shields.io/badge/HTML-C7591A?style=for-the-badge&logo=html5&logoColor=#fff)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-C7591A?style=for-the-badge&logo=html5&logoColor=fff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-103551?style=for-the-badge&logo=css3&logoColor=2986CC)
 
@@ -48,10 +42,8 @@
 
 #### Ferramentas:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscodestudio&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-&nbsp;
-&nbsp;
 
 ## Contatos:
 
