@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-<h1 align="center"> Olá eu sou Lais Estevam </h1>
+<h1 align="center"> Olá, sou Lais Estevam </h1>
 
 <p align="center">
   Com grande interesse em resolver desafios tecnológicos, buscando sempre explorar novas tecnologias e aprimorar minhas habilidades para entregar soluções eficientes e bem estruturadas.<br><br>
@@ -16,15 +16,6 @@
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=lasestevam&show_icons=true&theme=dracula&count_private=true)
  
 </div>
-
-
-<div  align="center" style="margin-bottom:100px">
- 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=lasestevam&theme=radical&mode=weekly" />
-
- </div>
-
-
 
 ## My Skills
 
