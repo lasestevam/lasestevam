@@ -9,7 +9,8 @@
 
   Atualmente, sou desenvolvedora de nível médio, sempre buscando soluções inteligentes e eficientes.
 </p>
-
+<br />
+<br />
 
 
 ## My Skills
