@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Dev-C++](https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-# Contatos:
+## Contatos:
 
 <div> 
   <a href="https://www.linkedin.com/in/laisestevam/" target="_blank">
