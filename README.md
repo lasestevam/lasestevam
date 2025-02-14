@@ -2,7 +2,14 @@
 
 <h1 align="center"> Olá eu sou Lais Estevam </h1>
 
-<p align="center">Amo resolver desafios de tecnologia, especialmente na área do front-end, onde sou apaixonado por descobrir coisas novas e usá-las para criar soluções de alta qualidade. <br><br> Atualmente, sou uma programadora de nível médio focada em <strong>desenvolvimento web</strong>, sempre buscando aprimorar minhas habilidades e conhecimentos.</p>&nbsp;
+<p align="center">
+  Com grande interesse em resolver desafios tecnológicos, buscando sempre explorar novas tecnologias e aprimorar minhas habilidades para entregar soluções eficientes e bem estruturadas.<br><br>
+  
+  Tenho conhecimento em <strong>front-end</strong>, com noções de <strong>HTML, CSS, JavaScript, React e SQL</strong>. Além disso, possuo experiência em <strong>Python, C e Git</strong>, o que me permite trabalhar com diferentes abordagens no desenvolvimento de software.<br><br>
+
+  Atualmente, sou desenvolvedora de nível médio, sempre buscando soluções inteligentes e eficientes.
+</p>
+
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -23,8 +30,15 @@
 
 #### Principais:
 ![HTML](https://img.shields.io/badge/HTML-C7591A?style=for-the-badge&logo=html5&logoColor=fff)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-103551?style=for-the-badge&logo=css3&logoColor=2986CC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-103551?style=for-the-badge&logo=css3&logoColor=2986CC)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
 
 
 
