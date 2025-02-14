@@ -10,7 +10,9 @@
   Atualmente, sou desenvolvedora de nível médio, sempre buscando soluções inteligentes e eficientes.
 </p>
 
-#### My Skills
+
+
+## My Skills
 
 #### Principais:
 ![HTML](https://img.shields.io/badge/HTML-C7591A?style=for-the-badge&logo=html5&logoColor=fff)&nbsp;
