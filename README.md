@@ -53,18 +53,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Dev-C++](https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
-## Contatos:
+# Contatos:
 
 <div> 
+  <a href="https://www.linkedin.com/in/laisestevam/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
+  <a href="https://www.instagram.com/lasestevam/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
-  <a href="https://www.linkedin.com/in/laisestevam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.instagram.com/lasestevam/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-
+  <a href="https://www.engide.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-ENGIDE-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
 </div>&nbsp;&nbsp;
+
  
 
-  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
