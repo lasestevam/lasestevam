@@ -65,7 +65,7 @@
   </a>
 
   <a href="https://www.engide.com.br" target="_blank">
-    <img src="[https://img.shields.io/badge/-ENGIDE-000000?style=for-the-badge&logo=google-chrome&logoColor=white](https://www.engide.com.br/logotipo.png)">
+    <img src="https://www.engide.com.br/logotipo.png">
   </a>
 </div>&nbsp;&nbsp;
 
