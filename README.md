@@ -39,25 +39,19 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
 #### Estudando no momento:
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
-![Python](https://img.shields.io/badge/Python-f1c232.svg?style=for-the-badge&logo=Python&logoColor=#2986cc)
-
-
-
-
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-f1c232.svg?style=for-the-badge&logo=Python&logoColor=#2986cc)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Ferramentas:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=visualstudio&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Dev-C++](https://img.shields.io/badge/Dev--C%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 ## Contatos:
 
