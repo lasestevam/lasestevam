@@ -10,13 +10,6 @@
   Atualmente, sou desenvolvedora de nível médio, sempre buscando soluções inteligentes e eficientes.
 </p>
 
-
-<div  align="center" style="margin-bottom:100px">
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=lasestevam&show_icons=true&theme=dracula&count_private=true)
- 
-</div>
-
 ## My Skills
 
 #### Principais:
